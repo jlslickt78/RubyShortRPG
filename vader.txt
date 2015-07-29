@@ -1,0 +1,3 @@
+Darth Vader,Dark Side, 90, 40, 2
+Light Saber, 50
+Force, 85
